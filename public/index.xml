@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Aqendo</title>
+    <link>https://aqendo.nl/</link>
+    <description>Recent content on Aqendo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Mar 2023 17:23:38 +0000</lastBuildDate><atom:link href="https://aqendo.nl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Сделал бота для автосохранения музыки</title>
+      <link>https://aqendo.nl/posts/made-a-bot-for-automatic-downloading-music/</link>
+      <pubDate>Thu, 09 Mar 2023 17:23:38 +0000</pubDate>
+      
+      <guid>https://aqendo.nl/posts/made-a-bot-for-automatic-downloading-music/</guid>
+      <description>С чего всё началось Всё началось с того, что я завёл ТГ-канал, куда грузил свою любимую музыку в MP3-формате
+Далее я написал @yamusaqbot с помощью которого и грузил музыку туда
+Проблема Я заметил, что каждую лайкнутую песню я скидываю в тот канал и почему бы не автоматизировать этот процесс, ведь в любом случае у меня уже есть бот для скачивания музыки
+Решение Так как у меня были исходники своего же музыкального бота, я скопировал оттуда большую часть кода и подкорректировал его, чтобы он скидывал сам.</description>
+    </item>
+    
+    <item>
+      <title>Мои проекты</title>
+      <link>https://aqendo.nl/projects/</link>
+      <pubDate>Wed, 08 Mar 2023 13:18:57 +0300</pubDate>
+      
+      <guid>https://aqendo.nl/projects/</guid>
+      <description>Содержание  Бот для скачиивания треков с Я.Музыки Агрегатор APK-Файлов Музыкальный инлайн-бот для Telegram Бесплатные фильмы в Telegram Число дня в Telegram  Бот для скачивания треков с Я.Музыки Работает через инлайн1, владелец может разрешать поиск музыки для пользователей с помощью своего токена авторизации. Перейти (Source Code)
+Агрегатор APK-Файлов Бот собирает все APK-файлы со множества каналов в одно место. Перейти
+Музыкальный инлайн-бот1 для Telegram Бот скачивает музыку с youtube music бесплатно без смс и рекламы :) Перейти</description>
+    </item>
+    
+    <item>
+      <title>Сайт готов</title>
+      <link>https://aqendo.nl/posts/deployed_hugo/</link>
+      <pubDate>Wed, 08 Mar 2023 12:09:49 +0300</pubDate>
+      
+      <guid>https://aqendo.nl/posts/deployed_hugo/</guid>
+      <description>Выбор пал на Hugo, у него оказалось много плюсов, которые позволяют легко писать статьи, допустим, поддержка Markdown1.
+У этой темы очень (по моему мнению) приятный вид, приятно смотреть на сайт и писать его.
+  Википедия, Ссылка&amp;#160;&amp;#x21a9;&amp;#xfe0e;
+   </description>
+    </item>
+    
+  </channel>
+</rss>

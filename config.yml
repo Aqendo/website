@@ -1,0 +1,30 @@
+baseURL: "https://aqendo.nl/"
+languageCode: "en-us"
+title: "Aqendo"
+theme: "PaperMod"
+params:
+    profileMode:
+        enabled: true
+        #title: "<Title>" # optional default will be site title
+        subtitle: "Python Programmer"
+        imageUrl: "icon.jpg" # optional
+        #imageTitle: "<title of image as alt>" # optional
+        imageWidth: 200 # custom size
+        imageHeight: 200 # custom size
+        buttons:
+            - name: Projects
+              url: projects
+            - name: Music
+              url: "https://t.me/aqendomusic"
+            - name: Donate
+              url: donate
+    socialIcons: # optional
+        - name: "github"
+          url: "https://github.com/Aqendo"
+        - name: "matrix"
+          url: "https://matrix.to/#/@aqendo:twily.name"
+sitemap:
+    changefreq: monthly
+    filename: sitemap.xml
+    priority: 0.5
+enableRobotsTXT: true
