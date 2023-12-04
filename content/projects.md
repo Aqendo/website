@@ -45,7 +45,7 @@ draft: false
 
 ## Котики-бот для Telegram
 Бот выдаёт в инлайн-режиме[^inline] рандомные гифки с котиками.
-![@cataqbot](/projects_pictures/cataqbot.png)
+![@cataqbot](/projects_pictures/cataqbot.jpg)
 [Перейти](https://t.me/cataqbot)
 
 P.S. Он не отвечает на /start, только инлайн.
