@@ -21,7 +21,7 @@ draft: false
 
 ## Бот для скачивания треков с Я.Музыки
 Работает через инлайн[^inline], владелец может разрешать поиск музыки для пользователей с помощью своего токена авторизации.
-![no_query](https://i.ibb.co/Ch4rJrz/inline-no-query.webp)
+![no_query](/projects_pictures/inline_no_query.png)
 ![with_query](https://i.ibb.co/FKQkxgX/inline-with-query.webp)
 [Перейти](https://t.me/yamusaqbot)
 ([Source Code](https://github.com/aqendo/yandex-music-telegram-bot))
