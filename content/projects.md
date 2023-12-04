@@ -22,47 +22,47 @@ draft: false
 ## Бот для скачивания треков с Я.Музыки
 Работает через инлайн[^inline], владелец может разрешать поиск музыки для пользователей с помощью своего токена авторизации.
 ![no_query](/projects_pictures/inline_no_query.png)
-![with_query](https://i.ibb.co/FKQkxgX/inline-with-query.webp)
+![with_query](/projects_pictures/inline_with_query.png)
 [Перейти](https://t.me/yamusaqbot)
 ([Source Code](https://github.com/aqendo/yandex-music-telegram-bot))
 
 ## Агрегатор APK-Файлов
 Бот собирает все APK-файлы со множества каналов в одно место.
-![modpub](https://i.ibb.co/hWvKXgx/modpub.webp)
+![modpub](/projects_pictures/modpub.png)
 [Перейти](https://t.me/modpub_reborn)
 
 ## Музыкальный инлайн-бот[^inline] для Telegram
 Бот скачивает музыку с youtube music бесплатно без смс и рекламы :)
-![aqendomusbot](https://i.ibb.co/b6s1PXq/aqendomusbot-choose.webp)
+![aqendomusbot](/projects_pictures/aqendomusbot_choose.png)
 [Перейти](https://t.me/aqendomusbot)
 
 ## Бесплатные фильмы в Telegram
 Бот берёт фильмы из HDRezka и предоставляет их бесплатно без рекламы.
-![hdrezkaaqbot_выбор_фильма](https://i.ibb.co/VLtGCY6/hdrezkaaq-1.webp)
-![хдрезка_выбор_перевода](https://i.ibb.co/DMctZM8/hdrezkaaq-2.webp)
-![хдрезка_выбор_качества](https://i.ibb.co/Cz9V8SS/hdrezkaaq-3.webp)
+![hdrezkaaqbot_выбор_фильма](/projects_pictures/hdrezkaaq_1.png)
+![хдрезка_выбор_перевода](/projects_pictures/hdrezkaaq_2.png)
+![хдрезка_выбор_качества](/projects_pictures/hdrezkaaq_3.png)
 [Перейти](https://t.me/hdrezkaaqbot)
 
 ## Котики-бот для Telegram
 Бот выдаёт в инлайн-режиме[^inline] рандомные гифки с котиками.
-![@cataqbot](https://i.ibb.co/hWfX6jg/cataqbot.webp)
+![@cataqbot](/projects_pictures/cataqbot.png)
 [Перейти](https://t.me/cataqbot)
 
 P.S. Он не отвечает на /start, только инлайн.
 
 ## Число дня в Telegram
 Каждый день в 6 утра по МСК бот выкладывает новое число дня.
-![число_дня](https://i.ibb.co/0j8rZ5J/numberoftheday.webp)
+![число_дня](/projects_pictures/numberoftheday.png)
 [Перейти](https://t.me/numberoftheday)
 
 ## Бот для узнавания погоды в Telegram
 В режиме инлайн[^inline] выдаёт информацию о погоде в конкретной локации.
-![wttrin](https://i.ibb.co/Hxy3MKK/wttrinbot.webp)
+![wttrin](/projects_pictures/wttrinbot.png)
 [Перейти](https://t.me/wttrinbot)
 
 ## ГДЗ по сайту [saharina.ru](https://saharina.ru)
 При вводе ссылки на тест выводит правильные ответы на задания.
-![saharina](https://i.ibb.co/5jFKRGc/saharina.webp)
+![saharina](/projects_pictures/saharina.png)
 [Перейти](https://saharina_deta-1-j7875884.deta.app/)
 
 [^inline]: https://core.telegram.org/bots/inline
